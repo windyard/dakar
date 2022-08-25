@@ -1,5 +1,6 @@
 *.google.com
 *.googlevideo.com
+*.googleusercontent
 *.gstatic.com
 *.gmail.com
 *.youtube.com
@@ -9,7 +10,7 @@
 /* TWITTER */
 *.twitter.com
 *.twimg.com
-https://t.co/*
+*.t.co
 
 /* GITHUB */
 *.github.com
