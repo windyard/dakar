@@ -22,5 +22,5 @@
 *.vultr.com
 *.disqus.com
 *.thehackernews.com
-*.de/
-*.org/
+*.de/*
+*.org/*
