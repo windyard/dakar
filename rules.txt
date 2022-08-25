@@ -16,6 +16,7 @@
 *.github.com
 *.githubassets.com
 *.githubcontent.com
+*.githubusercontent.com
 
 /*  */
 *.vultr.com
