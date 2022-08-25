@@ -4,5 +4,10 @@
 *.gmail.com
 *.youtube.com
 *.ytimg.com
+*.ggpht.com
 *.twitter.com
 *.twimg.com
+/* GITHUB */
+*.github.com
+*.githubassets.com
+*.githubcontent.com
