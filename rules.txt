@@ -5,8 +5,12 @@
 *.youtube.com
 *.ytimg.com
 *.ggpht.com
+
+/* TWITTER */
 *.twitter.com
 *.twimg.com
+*.t.co
+
 /* GITHUB */
 *.github.com
 *.githubassets.com
