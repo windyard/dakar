@@ -23,5 +23,6 @@
 *.disqus.com
 *.thehackernews.com
 *.de/*
+*.us/*
 *.org/*
 *.biz/*
