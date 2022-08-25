@@ -9,7 +9,7 @@
 /* TWITTER */
 *.twitter.com
 *.twimg.com
-*.t.co
+t.co/*
 
 /* GITHUB */
 *.github.com
