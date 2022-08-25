@@ -1,6 +1,6 @@
 *.google.com
 *.googlevideo.com
-*.googleusercontent
+*.googleusercontent.com
 *.gstatic.com
 *.gmail.com
 *.youtube.com
