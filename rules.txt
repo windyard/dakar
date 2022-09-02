@@ -6,6 +6,7 @@
 *.youtube.com
 *.ytimg.com
 *.ggpht.com
+*.googleapis.com
 
 /* TWITTER */
 *.twitter.com
