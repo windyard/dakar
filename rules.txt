@@ -22,7 +22,11 @@
 *.vultr.com
 *.disqus.com
 *.thehackernews.com
-*.de/*
-*.us/*
-*.org/*
-*.biz/*
+*.de
+*.us
+*.org
+*.biz
+*.dropbox.com
+*.imgur.com
+*.figma.com
+*.v2ex.com
