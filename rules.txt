@@ -30,3 +30,6 @@
 *.imgur.com
 *.figma.com
 *.v2ex.com
+*.redditmedia.com +ALL
+*.redditstatic.com +ALL
+*.reddit.com +ALL
