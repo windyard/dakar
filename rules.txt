@@ -35,3 +35,4 @@
 *.redditmedia.com
 *.redditstatic.com
 *.reddit.com
+*.cilixiong.com
