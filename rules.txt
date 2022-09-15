@@ -39,3 +39,4 @@
 *.reddit.com
 *.cilixiong.com
 *.podtrac.com
+*.vox.com
