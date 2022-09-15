@@ -38,3 +38,4 @@
 *.redditstatic.com
 *.reddit.com
 *.cilixiong.com
+*.podtrac.com
