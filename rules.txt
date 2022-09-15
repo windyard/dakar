@@ -40,4 +40,4 @@
 *.cilixiong.com
 *.podtrac.com
 *.vox.com
-*.podbeam.com
+*.podbean.com
