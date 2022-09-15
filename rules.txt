@@ -29,6 +29,7 @@
 *.org
 *.biz
 *.fm
+*.tv
 *.dropbox.com
 *.imgur.com
 *.figma.com
