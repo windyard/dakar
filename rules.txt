@@ -41,3 +41,4 @@
 *.podtrac.com
 *.vox.com
 *.podbean.com
+*.arttrk.com
