@@ -42,3 +42,4 @@
 *.vox.com
 *.podbean.com
 *.arttrk.com
+*.simplecastaudio.com
