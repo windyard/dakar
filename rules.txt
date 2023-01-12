@@ -19,10 +19,17 @@
 *.githubcontent.com
 *.githubusercontent.com
 
+*.quora.com
+*.quoracdn.net
+*.stackoverflow.com
+*.sstatic.net
+*.cloudfront.net
+
 /*  */
 *.vultr.com
 *.disqus.com
 *.thehackernews.com
+*.co
 *.it
 *.de
 *.us
@@ -30,6 +37,7 @@
 *.biz
 *.fm
 *.tv
+*.kr
 *.dropbox.com
 *.imgur.com
 *.figma.com
