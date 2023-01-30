@@ -29,15 +29,19 @@
 *.vultr.com
 *.disqus.com
 *.thehackernews.com
-*.co
-*.it
-*.de
-*.us
-*.org
+
+/* Top Domains */
 *.biz
+*.co
+*.de
 *.fm
-*.tv
+*.it
 *.kr
+*.org
+*.us
+*.tv
+*.to
+
 *.dropbox.com
 *.imgur.com
 *.figma.com
