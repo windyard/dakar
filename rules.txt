@@ -43,6 +43,7 @@
 *.to
 
 *.atlassian.net
+*.atl-pass.net
 *.dropbox.com
 *.imgur.com
 *.figma.com
