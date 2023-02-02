@@ -42,6 +42,7 @@
 *.tv
 *.to
 
+*.atlassian.net
 *.dropbox.com
 *.imgur.com
 *.figma.com
@@ -55,3 +56,5 @@
 *.podbean.com
 *.arttrk.com
 *.simplecastaudio.com
+*.gravatar.com
+
