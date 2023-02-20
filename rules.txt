@@ -58,4 +58,6 @@
 *.arttrk.com
 *.simplecastaudio.com
 *.gravatar.com
+*.jsdelivr.net
+
 
